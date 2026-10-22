@@ -1,0 +1,23 @@
+<Solution>
+  <Configurations><Platform Name="x64" /></Configurations>
+  <Project Path="projects/exercise_1_01.vcxproj" Id="b5b2fc80-0fa9-462a-b706-d54f76142e9f" />
+  <Project Path="projects/exercise_1_02.vcxproj" Id="102d3c66-ee1b-414f-b3f9-100ce3cdc79d" />
+  <Project Path="projects/exercise_1_03.vcxproj" Id="2ed962a2-9be4-4e28-a446-ba34631710e8" />
+  <Project Path="projects/exercise_1_04.vcxproj" Id="5c475b4b-701d-4fb4-ac0c-5036af97a8d1" />
+  <Project Path="projects/exercise_1_05.vcxproj" Id="f3cc1308-2df4-4c12-a658-3cfa169b3b6f" />
+  <Project Path="projects/exercise_1_08.vcxproj" Id="c41f70f8-32a5-453f-a973-5e95fa19d3ec" />
+  <Project Path="projects/exercise_1_09.vcxproj" Id="5884ad58-2ee8-477f-8bf8-f2e57603d319" />
+  <Project Path="projects/exercise_1_10.vcxproj" Id="ded98391-b096-4d0f-9cc2-d4dd1e4e9344" />
+  <Project Path="projects/exercise_1_11.vcxproj" Id="f7f21ab5-30f1-4d6d-852e-adb4f7406008" />
+  <Project Path="projects/exercise_1_15.vcxproj" Id="fdc65027-676a-4a5b-8aff-349fda4a4fab" />
+  <Project Path="projects/exercise_1_17.vcxproj" Id="f7b9a942-2453-420d-a776-ce653eb180b2" />
+  <Project Path="projects/exercise_1_18.vcxproj" Id="34f2eaac-4540-46a7-96fe-883432440528" />
+  <Project Path="projects/exercise_1_19.vcxproj" Id="b96e9f96-3951-499b-8252-afd0578b4f8a" />
+  <Project Path="projects/exercise_1_20.vcxproj" Id="d22c6783-6bcc-4e6d-ba7f-74ff072c6841" />
+  <Project Path="projects/exercise_1_21.vcxproj" Id="d9945587-bc64-4818-a38a-e6e2750c487d" />
+  <Project Path="projects/exercise_1_22.vcxproj" Id="7711d7ae-09f9-4b92-9dbe-d06fbecbcaf7" />
+  <Project Path="projects/exercise_1_23.vcxproj" Id="c129ce69-01c6-448c-8ba0-a01650b4484f" />
+  <Project Path="projects/exercise_1_24.vcxproj" Id="2ac478ca-a861-4d9c-802c-27e1b693e65a" />
+  <Project Path="projects/exercise_2_01.vcxproj" Id="5965d173-bd60-460a-881e-26c92985347d" />
+  <Project Path="projects/exercise_2_03.vcxproj" Id="45a35eb3-0da5-40e9-adb9-c534b028b403" />
+</Solution>
