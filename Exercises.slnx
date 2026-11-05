@@ -20,4 +20,12 @@
   <Project Path="projects/exercise_1_24.vcxproj" Id="2ac478ca-a861-4d9c-802c-27e1b693e65a" />
   <Project Path="projects/exercise_2_01.vcxproj" Id="5965d173-bd60-460a-881e-26c92985347d" />
   <Project Path="projects/exercise_2_03.vcxproj" Id="45a35eb3-0da5-40e9-adb9-c534b028b403" />
+  <Project Path="projects/exercise_5_03.vcxproj" />
+  <Project Path="projects/exercise_5_04.vcxproj" />
+  <Project Path="projects/exercise_5_05.vcxproj" />
+  <Project Path="projects/exercise_5_06.vcxproj" />
+  <Project Path="projects/exercise_5_07.vcxproj" />
+  <Project Path="projects/exercise_5_08.vcxproj" />
+  <Project Path="projects/exercise_5_10.vcxproj" />
+  <Project Path="projects/exercise_5_trace.vcxproj" />
 </Solution>

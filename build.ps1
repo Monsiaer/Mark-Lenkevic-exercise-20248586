@@ -1,5 +1,5 @@
 param(
-    [ValidatePattern('^(all|exercise_[12]_[0-9]{2})$')]
+    [ValidatePattern('^(all|exercise_[1-9][0-9]*_([0-9]{2}|trace))$')]
     [string]$Exercise = 'all'
 )
 
