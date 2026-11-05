@@ -28,4 +28,22 @@
   <Project Path="projects/exercise_5_08.vcxproj" />
   <Project Path="projects/exercise_5_10.vcxproj" />
   <Project Path="projects/exercise_5_trace.vcxproj" />
+  <Project Path="projects/exercise_3_02.vcxproj" />
+  <Project Path="projects/exercise_3_04.vcxproj" />
+  <Project Path="projects/exercise_3_05.vcxproj" />
+  <Project Path="projects/exercise_3_06.vcxproj" />
+  <Project Path="projects/exercise_4_01.vcxproj" />
+  <Project Path="projects/exercise_4_03.vcxproj" />
+  <Project Path="projects/exercise_4_04.vcxproj" />
+  <Project Path="projects/exercise_4_05.vcxproj" />
+  <Project Path="projects/exercise_4_06.vcxproj" />
+  <Project Path="projects/exercise_4_07.vcxproj" />
+  <Project Path="projects/exercise_4_08.vcxproj" />
+  <Project Path="projects/exercise_4_09.vcxproj" />
+  <Project Path="projects/exercise_4_10.vcxproj" />
+  <Project Path="projects/example_control_flow.vcxproj" />
+  <Project Path="projects/example_preprocessor.vcxproj" />
+  <Project Path="projects/example_particular_pattern.vcxproj" />
+  <Project Path="projects/example_postfix_calculator.vcxproj" />
+  <Project Path="projects/example_scope_rules.vcxproj" />
 </Solution>
