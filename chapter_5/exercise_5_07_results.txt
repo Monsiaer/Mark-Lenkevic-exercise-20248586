@@ -1,20 +1,8 @@
-Exercise 5-7: storage and timing comparison
+Exercise 5-7
 
-readlines stores input in linestor, an array owned by main. The size_t
-variable used records the next free offset instead of the static allocp.
-The pointer array refers to strings in linestor, so sorting exchanges
-pointers without copying those strings.
-
-Measured on 2026-11-05 with Microsoft C, /std:c17 /W4 /WX /O2:
-5 rounds, 2000 reads per round, 400 lines per read.
-Static alloc median: 0.254000 seconds.
-Main storage median: 0.261000 seconds.
-Ratio (alloc / main storage): 0.973.
-
-In this run, main storage took about 2.8% more time. It was not faster.
-Results depend on the machine and runtime; input handling dominates this
-small comparison. Both versions use the same line reader, storage size,
-memcpy, and fixture. Sorting and fixture creation are outside the timed
-region. Stored lines are checked for equality before timing.
-
-Reproduce: run test_chapter_5.ps1, then bin\benchmark_5_07.exe.
+Microsoft C, /std:c17 /W4 /WX /O2
+5 rounds, 2000 reads per round, 400 lines per read
+Static alloc median: 0.254000 s
+Main storage median: 0.261000 s
+Ratio (alloc / main storage): 0.973
+Main storage took approximately 2.8% more time in this run.
